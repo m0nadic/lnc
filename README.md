@@ -1,5 +1,11 @@
 # lnc
 
+## Install
+
+```
+$ go get github.com/m0nadic/lnc
+```
+
 ## Example
 
 ```
